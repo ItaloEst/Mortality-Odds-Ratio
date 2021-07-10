@@ -1,17 +1,16 @@
 #Bootstrap 
 #ainda não alterada
 
-
+#install.packages("fmsb")
+#install.packages("readODS")
+#install.packages("xlsx")
+#install.packages("tidyverse")
 ###########################################################################################################
 
 library(tidyverse)
-
 library(fmsb)
-
 library(readODS)
-
 library(xlsx)
-
 ##########################################################################################################
 
 novmort <- read.ods("novmort.ods")
@@ -95,6 +94,7 @@ for(i in 1:length(cancercsele$Var1)){
 #abaixo o valor B corresponde ao K
 
 for(m in 1:length(cancercsele$Var1)){
+  
   cancername <- cancercsele$Var1[m]
   
   newdata$Var1 <- if_else(cancercsele$Var1==cancername,1,0)
@@ -119,7 +119,7 @@ for(m in 1:length(cancercsele$Var1)){
   
   odd$estimate#MOR valor
   
-###################################################################################################################################
+  ###################################################################################################################################
   #Bootstrap
   
   #A= expostos a eletricidade e sofrem de uma condição
@@ -157,34 +157,33 @@ for(m in 1:length(cancercsele$Var1)){
   
   bootstrapsamples1 <- matrix(sample(variable,size=1*b,replace = TRUE),ncol =b ,nrow =1 )
   
-
+  
   
   dim(bootstrapsamples1)
   
   
-  odd[[3]
-
-  
-  bootlist=list(rep(0,b))#lista criada para salvar os valores da funcao da MOR
-  
-  for(i in 1:b){
-    c=sum(cancercsele$Freq)-bootstrapsamples[1,i]
-    d=sum(cancernel$Freq)-bootstrapsamples1[1,i]
-    
-    bootlist[[i]]=oddsratio(bootstrapsamples[1,i],bootstrapsamples1[1,i],c,d,p.calc.by.independence = TRUE)
-    
-  }#salvando listas em uma lista
-  
-  
-  morboot=rep(0,b)
-  #lista para salvar apenas os valores da MORBoot
-  
-  for(i in 1:b){
-    morboot[i]=bootlist[[i]]$estimate
-  }
-  
-  results[m]=list(c("conf"=round(quantile(morboot,c(0.025,0.975)),4),"MOR"=mean(morboot),"PVALUE"=mean((round(morboot,0)==1))))#confidence interval boot 95%
-  
+      
+      
+      bootlist=list(rep(0,b))#lista criada para salvar os valores da funcao da MOR
+      
+      for(i in 1:b){
+        c=sum(cancercsele$Freq)-bootstrapsamples[1,i]
+        d=sum(cancernel$Freq)-bootstrapsamples1[1,i]
+        
+        bootlist[[i]]=oddsratio(bootstrapsamples[1,i],bootstrapsamples1[1,i],c,d,p.calc.by.independence = TRUE)
+        
+      }#salvando listas em uma lista
+      
+      
+      morboot=rep(0,b)
+      #lista para salvar apenas os valores da MORBoot
+      
+      for(i in 1:b){
+        morboot[i]=bootlist[[i]]$estimate
+      }
+      
+      results[m]=list(c("conf"=round(quantile(morboot,c(0.025,0.975)),4),"MOR"=mean(morboot),"PVALUE"=mean((round(morboot,0)==1))))#confidence interval boot 95%
+      
 }
 
 names(results)=cancercsele$Var1
@@ -255,3 +254,4 @@ median(tabelaboot$Amplitude)
 
 sd(tabelaboot$Amplitude, na.rm=TRUE)/
   mean(tabelaboot$Amplitude, na.rm=TRUE)*100
+
