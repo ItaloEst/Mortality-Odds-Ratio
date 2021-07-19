@@ -7,13 +7,15 @@
 #Da PARA FAZER DUAS FUNCOES AQUI, UMA PARA A FAIX ETARIA E OUTRA PARA A MOR
 
 classes_5 = c("Até 20 anos","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85-89","90-94","Mais de 95")
-#
+#colocarei em idade matematica e baseado nos numeros do break
 
-brk_5 = 0
-brk_5[1] = 0
+brk_5 = 0#?
+brk_5[1] = 0#?
 
-faixa_5 = brk_5[2:17]<-seq(20,95,5)#aqui sao apenas colunas numericas?
+faixa_5 = brk_5[2:17]<-seq(20,95,5)
+#aqui sao apenas colunas numericas?
 #idade inicial - idade final - amplitude  do intervalo
+
 brk_5[18] = 120#aqui?
 
 faixa_etaria_5 = data.frame(table(cut(as.numeric(neopcop$`IDADE DO OBITO`),breaks=brk_5,right=FALSE,labels=classes_5)))
