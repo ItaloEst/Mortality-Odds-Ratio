@@ -1,0 +1,418 @@
+;Náme;;Name;NAME;MESO_NAME
+1;Abaíra;;Abaira;ABAIRA;Centro-Sul Baiano
+2;Abaré;;Abare;ABARE;Vale São-Franciscano da Bahia
+3;Acajutiba;;Acajutiba;ACAJUTIBA;Nordeste Baiano
+4;Adustina;;Adustina;ADUSTINA;Nordeste Baiano
+5;Água Fria;;Agua Fria;AGUA FRIA;Centro-Norte Baiano
+6;Érico Cardoso;;Erico Cardoso;ERICO CARDOSO;Centro-Sul Baiano
+7;Aiquara;;Aiquara;AIQUARA;Centro-Sul Baiano
+8;Alagoinhas;;Alagoinhas;ALAGOINHAS;Nordeste Baiano
+9;Alcobaça;;Alcobaca;ALCOBACA;Sul Baiano
+10;Almadina;;Almadina;ALMADINA;Sul Baiano
+11;Amargosa;;Amargosa;AMARGOSA;Centro-Sul Baiano
+12;Amélia Rodrigues;;Amelia Rodrigues;AMELIA RODRIGUES;Mesorregião Metropolitana de Salvador
+13;América Dourada;;America Dourada;AMERICA DOURADA;Centro-Norte Baiano
+14;Anagé;;Anage;ANAGE;Centro-Sul Baiano
+15;Andaraí;;Andarai;ANDARAI;Centro-Sul Baiano
+16;Andorinha;;Andorinha;ANDORINHA;Centro-Norte Baiano
+17;Angical;;Angical;ANGICAL;Extremo Oeste Baiano
+18;Anguera;;Anguera;ANGUERA;Centro-Norte Baiano
+19;Antas;;Antas;ANTAS;Nordeste Baiano
+20;Antônio Cardoso;;Antonio Cardoso;ANTONIO CARDOSO;Centro-Norte Baiano
+21;Antônio Gonçalves;;Antonio Goncalves;ANTONIO GONCALVES;Centro-Norte Baiano
+22;Aporá;;Apora;APORA;Nordeste Baiano
+23;Apuarema;;Apuarema;APUAREMA;Centro-Sul Baiano
+24;Aracatu;;Aracatu;ARACATU;Centro-Sul Baiano
+25;Araças;;Aracas;ARACAS;Nordeste Baiano
+26;Araci;;Araci;ARACI;Nordeste Baiano
+27;Aramari;;Aramari;ARAMARI;Nordeste Baiano
+28;Arataca;;Arataca;ARATACA;Sul Baiano
+29;Aratuípe;;Aratuipe;ARATUIPE;Mesorregião Metropolitana de Salvador
+30;Aurelino Leal;;Aurelino Leal;AURELINO LEAL;Sul Baiano
+31;Baianópolis;;Baianopolis;BAIANOPOLIS;Extremo Oeste Baiano
+32;Baixa Grande;;Baixa Grande;BAIXA GRANDE;Centro-Norte Baiano
+33;Banzaê;;Banzae;BANZAE;Nordeste Baiano
+34;Barra;;Barra;BARRA;Vale São-Franciscano da Bahia
+35;Barra Da Estiva;;Barra Da Estiva;BARRA DA ESTIVA;Centro-Sul Baiano
+36;Barra Do Choça;;Barra Do Choca;BARRA DO CHOCA;Centro-Sul Baiano
+37;Barra Do Mendes;;Barra Do Mendes;BARRA DO MENDES;Centro-Norte Baiano
+38;Barra Do Rocha;;Barra Do Rocha;BARRA DO ROCHA;Sul Baiano
+39;Barreiras;;Barreiras;BARREIRAS;Extremo Oeste Baiano
+40;Barro Alto;;Barro Alto;BARRO ALTO;Centro-Norte Baiano
+41;Barrocas;;Barrocas;BARROCAS;Nordeste Baiano
+42;Barro Preto;;Barro Preto;BARRO PRETO;Sul Baiano
+43;Belmonte;;Belmonte;BELMONTE;Sul Baiano
+44;Belo Campo;;Belo Campo;BELO CAMPO;Centro-Sul Baiano
+45;Biritinga;;Biritinga;BIRITINGA;Nordeste Baiano
+46;Boa Nova;;Boa Nova;BOA NOVA;Centro-Sul Baiano
+47;Boa Vista Do Tupim;;Boa Vista Do Tupim;BOA VISTA DO TUPIM;Centro-Norte Baiano
+48;Bom Jesus Da Lapa;;Bom Jesus Da Lapa;BOM JESUS DA LAPA;Vale São-Franciscano da Bahia
+49;Bom Jesus Da Serra;;Bom Jesus Da Serra;BOM JESUS DA SERRA;Centro-Sul Baiano
+50;Boninal;;Boninal;BONINAL;Centro-Sul Baiano
+51;Bonito;;Bonito;BONITO;Centro-Sul Baiano
+52;Boquira;;Boquira;BOQUIRA;Centro-Sul Baiano
+53;Botuporã;;Botupora;BOTUPORA;Centro-Sul Baiano
+54;Brejões;;Brejoes;BREJOES;Centro-Sul Baiano
+55;Brejolândia;;Brejolandia;BREJOLANDIA;Extremo Oeste Baiano
+56;Brotas De Macaúbas;;Brotas De Macaubas;BROTAS DE MACAUBAS;Centro-Sul Baiano
+57;Brumado;;Brumado;BRUMADO;Centro-Sul Baiano
+58;Buerarema;;Buerarema;BUERAREMA;Sul Baiano
+59;Buritirama;;Buritirama;BURITIRAMA;Vale São-Franciscano da Bahia
+60;Caatiba;;Caatiba;CAATIBA;Centro-Sul Baiano
+61;Cabaceiras Do Paraguaçu;;Cabaceiras Do Paraguacu;CABACEIRAS DO PARAGUACU;Mesorregião Metropolitana de Salvador
+62;Cachoeira;;Cachoeira;CACHOEIRA;Mesorregião Metropolitana de Salvador
+63;Caculé;;Cacule;CACULE;Centro-Sul Baiano
+64;Caém;;Caem;CAEM;Centro-Norte Baiano
+65;Caetanos;;Caetanos;CAETANOS;Centro-Sul Baiano
+66;Caetité;;Caetite;CAETITE;Centro-Sul Baiano
+67;Cafarnaum;;Cafarnaum;CAFARNAUM;Centro-Norte Baiano
+68;Cairu;;Cairu;CAIRU;Sul Baiano
+69;Caldeirão Grande;;Caldeirao Grande;CALDEIRAO GRANDE;Centro-Norte Baiano
+70;Camacan;;Camacan;CAMACAN;Sul Baiano
+71;Camaçari;;Camacari;CAMACARI;Mesorregião Metropolitana de Salvador
+72;Camamu;;Camamu;CAMAMU;Sul Baiano
+73;Campo Alegre De Lourdes;;Campo Alegre De Lourdes;CAMPO ALEGRE DE LOURDES;Vale São-Franciscano da Bahia
+74;Campo Formoso;;Campo Formoso;CAMPO FORMOSO;Centro-Norte Baiano
+75;Canápolis;;Canapolis;CANAPOLIS;Extremo Oeste Baiano
+76;Canarana;;Canarana;CANARANA;Centro-Norte Baiano
+77;Canavieiras;;Canavieiras;CANAVIEIRAS;Sul Baiano
+78;Candeal;;Candeal;CANDEAL;Nordeste Baiano
+79;Candeias;;Candeias;CANDEIAS;Mesorregião Metropolitana de Salvador
+80;Candiba;;Candiba;CANDIBA;Centro-Sul Baiano
+81;Cândido Sales;;Candido Sales;CANDIDO SALES;Centro-Sul Baiano
+82;Cansanção;;Cansancao;CANSANCAO;Nordeste Baiano
+83;Canudos;;Canudos;CANUDOS;Nordeste Baiano
+84;Capela Do Alto Alegre;;Capela Do Alto Alegre;CAPELA DO ALTO ALEGRE;Nordeste Baiano
+85;Capim Grosso;;Capim Grosso;CAPIM GROSSO;Centro-Norte Baiano
+86;Caraíbas;;Caraibas;CARAIBAS;Centro-Sul Baiano
+87;Caravelas;;Caravelas;CARAVELAS;Sul Baiano
+88;Cardeal Da Silva;;Cardeal Da Silva;CARDEAL DA SILVA;Nordeste Baiano
+89;Carinhanha;;Carinhanha;CARINHANHA;Vale São-Franciscano da Bahia
+90;Casa Nova;;Casa Nova;CASA NOVA;Vale São-Franciscano da Bahia
+91;Castro Alves;;Castro Alves;CASTRO ALVES;Mesorregião Metropolitana de Salvador
+92;Catolândia;;Catolandia;CATOLANDIA;Extremo Oeste Baiano
+93;Catu;;Catu;CATU;Mesorregião Metropolitana de Salvador
+94;Caturama;;Caturama;CATURAMA;Centro-Sul Baiano
+95;Central;;Central;CENTRAL;Centro-Norte Baiano
+96;Chorrochó;;Chorrocho;CHORROCHO;Vale São-Franciscano da Bahia
+97;Cícero Dantas;;Cicero Dantas;CICERO DANTAS;Nordeste Baiano
+98;Cipó;;Cipo;CIPO;Nordeste Baiano
+99;Coaraci;;Coaraci;COARACI;Sul Baiano
+100;Cocos;;Cocos;COCOS;Extremo Oeste Baiano
+101;Conceição Da Feira;;Conceicao Da Feira;CONCEICAO DA FEIRA;Centro-Norte Baiano
+102;Conceição Do Almeida;;Conceicao Do Almeida;CONCEICAO DO ALMEIDA;Mesorregião Metropolitana de Salvador
+103;Conceição Do Coité;;Conceicao Do Coite;CONCEICAO DO COITE;Nordeste Baiano
+104;Conceição Do Jacuípe;;Conceicao Do Jacuipe;CONCEICAO DO JACUIPE;Centro-Norte Baiano
+105;Conde;;Conde;CONDE;Nordeste Baiano
+106;Condeúba;;Condeuba;CONDEUBA;Centro-Sul Baiano
+107;Contendas Do Sincorá;;Contendas Do Sincora;CONTENDAS DO SINCORA;Centro-Sul Baiano
+108;Coração De Maria;;Coracao De Maria;CORACAO DE MARIA;Centro-Norte Baiano
+109;Cordeiros;;Cordeiros;CORDEIROS;Centro-Sul Baiano
+110;Coribe;;Coribe;CORIBE;Extremo Oeste Baiano
+111;Coronel João Sá;;Coronel Joao Sa;CORONEL JOAO SA;Nordeste Baiano
+112;Correntina;;Correntina;CORRENTINA;Extremo Oeste Baiano
+113;Cotegipe;;Cotegipe;COTEGIPE;Extremo Oeste Baiano
+114;Cravolândia;;Cravolandia;CRAVOLANDIA;Centro-Sul Baiano
+115;Crisópolis;;Crisopolis;CRISOPOLIS;Nordeste Baiano
+116;Cristópolis;;Cristopolis;CRISTOPOLIS;Extremo Oeste Baiano
+117;Cruz Das Almas;;Cruz Das Almas;CRUZ DAS ALMAS;Mesorregião Metropolitana de Salvador
+118;Curaçá;;Curaca;CURACA;Vale São-Franciscano da Bahia
+119;Dário Meira;;Dario Meira;DARIO MEIRA;Centro-Sul Baiano
+120;Dias D'ávila;;Dias D'avila;DIAS D'AVILA;Mesorregião Metropolitana de Salvador
+121;Dom Basílio;;Dom Basilio;DOM BASILIO;Centro-Sul Baiano
+122;Dom Macedo Costa;;Dom Macedo Costa;DOM MACEDO COSTA;Mesorregião Metropolitana de Salvador
+123;Elísio Medrado;;Elisio Medrado;ELISIO MEDRADO;Centro-Norte Baiano
+124;Encruzilhada;;Encruzilhada;ENCRUZILHADA;Centro-Sul Baiano
+125;Entre Rios;;Entre Rios;ENTRE RIOS;Nordeste Baiano
+126;Esplanada;;Esplanada;ESPLANADA;Nordeste Baiano
+127;Euclides Da Cunha;;Euclides Da Cunha;EUCLIDES DA CUNHA;Nordeste Baiano
+128;Eunápolis;;Eunapolis;EUNAPOLIS;Sul Baiano
+129;Fátima;;Fatima;FATIMA;Nordeste Baiano
+130;Feira Da Mata;;Feira Da Mata;FEIRA DA MATA;Vale São-Franciscano da Bahia
+131;Feira De Santana;;Feira De Santana;FEIRA DE SANTANA;Centro-Norte Baiano
+132;Filadélfia;;Filadelfia;FILADELFIA;Centro-Norte Baiano
+133;Firmino Alves;;Firmino Alves;FIRMINO ALVES;Sul Baiano
+134;Floresta Azul;;Floresta Azul;FLORESTA AZUL;Sul Baiano
+135;Formosa Do Rio Preto;;Formosa Do Rio Preto;FORMOSA DO RIO PRETO;Extremo Oeste Baiano
+136;Gandu;;Gandu;GANDU;Sul Baiano
+137;Gavião;;Gaviao;GAVIAO;Nordeste Baiano
+138;Gentio Do Ouro;;Gentio Do Ouro;GENTIO DO OURO;Centro-Norte Baiano
+139;Glória;;Gloria;GLORIA;Vale São-Franciscano da Bahia
+140;Gongogi;;Gongogi;GONGOGI;Sul Baiano
+141;Governador Mangabeira;;Governador Mangabeira;GOVERNADOR MANGABEIRA;Mesorregião Metropolitana de Salvador
+142;Guajeru;;Guajeru;GUAJERU;Centro-Sul Baiano
+143;Guanambi;;Guanambi;GUANAMBI;Centro-Sul Baiano
+144;Guaratinga;;Guaratinga;GUARATINGA;Sul Baiano
+145;Heliópolis;;Heliopolis;HELIOPOLIS;Nordeste Baiano
+146;Iaçu;;Iacu;IACU;Centro-Norte Baiano
+147;Ibiassucê;;Ibiassuce;IBIASSUCE;Centro-Sul Baiano
+148;Ibicaraí;;Ibicarai;IBICARAI;Sul Baiano
+149;Ibicoara;;Ibicoara;IBICOARA;Centro-Sul Baiano
+150;Ibicuí;;Ibicui;IBICUI;Centro-Sul Baiano
+151;Ibipeba;;Ibipeba;IBIPEBA;Centro-Norte Baiano
+152;Ibipitanga;;Ibipitanga;IBIPITANGA;Centro-Sul Baiano
+153;Ibiquera;;Ibiquera;IBIQUERA;Centro-Norte Baiano
+154;Ibirapitanga;;Ibirapitanga;IBIRAPITANGA;Sul Baiano
+155;Ibirapuã;;Ibirapua;IBIRAPUA;Sul Baiano
+156;Ibirataia;;Ibirataia;IBIRATAIA;Sul Baiano
+157;Ibitiara;;Ibitiara;IBITIARA;Centro-Sul Baiano
+158;Ibititá;;Ibitita;IBITITA;Centro-Norte Baiano
+159;Ibotirama;;Ibotirama;IBOTIRAMA;Vale São-Franciscano da Bahia
+160;Ichu;;Ichu;ICHU;Nordeste Baiano
+161;Igaporã;;Igapora;IGAPORA;Centro-Sul Baiano
+162;Igrapiúna;;Igrapiuna;IGRAPIUNA;Sul Baiano
+163;Iguaí;;Iguai;IGUAI;Centro-Sul Baiano
+164;Ilhéus;;Ilheus;ILHEUS;Sul Baiano
+165;Inhambupe;;Inhambupe;INHAMBUPE;Nordeste Baiano
+166;Ipecaetá;;Ipecaeta;IPECAETA;Centro-Norte Baiano
+167;Ipiaú;;Ipiau;IPIAU;Sul Baiano
+168;Ipirá;;Ipira;IPIRA;Centro-Norte Baiano
+169;Ipupiara;;Ipupiara;IPUPIARA;Centro-Sul Baiano
+170;Irajuba;;Irajuba;IRAJUBA;Centro-Sul Baiano
+171;Iramaia;;Iramaia;IRAMAIA;Centro-Sul Baiano
+172;Iraquara;;Iraquara;IRAQUARA;Centro-Norte Baiano
+173;Irará;;Irara;IRARA;Centro-Norte Baiano
+174;Irecê;;Irece;IRECE;Centro-Norte Baiano
+175;Itabela;;Itabela;ITABELA;Sul Baiano
+176;Itaberaba;;Itaberaba;ITABERABA;Centro-Norte Baiano
+177;Itabuna;;Itabuna;ITABUNA;Sul Baiano
+178;Itacaré;;Itacare;ITACARE;Sul Baiano
+179;Itaeté;;Itaete;ITAETE;Centro-Sul Baiano
+180;Itagi;;Itagi;ITAGI;Centro-Sul Baiano
+181;Itagibá;;Itagiba;ITAGIBA;Sul Baiano
+182;Itagimirim;;Itagimirim;ITAGIMIRIM;Sul Baiano
+183;Itaguaçu Da Bahia;;Itaguacu Da Bahia;ITAGUACU DA BAHIA;Vale São-Franciscano da Bahia
+184;Itaju Do Colônia;;Itaju Do Colonia;ITAJU DO COLONIA;Sul Baiano
+185;Itajuípe;;Itajuipe;ITAJUIPE;Sul Baiano
+186;Itamaraju;;Itamaraju;ITAMARAJU;Sul Baiano
+187;Itamari;;Itamari;ITAMARI;Sul Baiano
+188;Itambé;;Itambe;ITAMBE;Centro-Sul Baiano
+189;Itanagra;;Itanagra;ITANAGRA;Mesorregião Metropolitana de Salvador
+190;Itanhém;;Itanhem;ITANHEM;Sul Baiano
+191;Itaparica;;Itaparica;ITAPARICA;Mesorregião Metropolitana de Salvador
+192;Itapé;;Itape;ITAPE;Sul Baiano
+193;Itapebi;;Itapebi;ITAPEBI;Sul Baiano
+194;Itapetinga;;Itapetinga;ITAPETINGA;Centro-Sul Baiano
+195;Itapicuru;;Itapicuru;ITAPICURU;Nordeste Baiano
+196;Itapitanga;;Itapitanga;ITAPITANGA;Sul Baiano
+197;Itaquara;;Itaquara;ITAQUARA;Centro-Sul Baiano
+198;Itarantim;;Itarantim;ITARANTIM;Centro-Sul Baiano
+199;Itatim;;Itatim;ITATIM;Centro-Norte Baiano
+200;Itiruçu;;Itirucu;ITIRUCU;Centro-Sul Baiano
+201;Itiúba;;Itiuba;ITIUBA;Centro-Norte Baiano
+202;Itororó;;Itororo;ITORORO;Centro-Sul Baiano
+203;Ituaçu;;Ituacu;ITUACU;Centro-Sul Baiano
+204;Ituberá;;Itubera;ITUBERA;Sul Baiano
+205;Iuiú;;Iuiu;IUIU;Centro-Sul Baiano
+206;Jaborandi;;Jaborandi;JABORANDI;Extremo Oeste Baiano
+207;Jacaraci;;Jacaraci;JACARACI;Centro-Sul Baiano
+208;Jacobina;;Jacobina;JACOBINA;Centro-Norte Baiano
+209;Jaguaquara;;Jaguaquara;JAGUAQUARA;Centro-Sul Baiano
+210;Jaguarari;;Jaguarari;JAGUARARI;Centro-Norte Baiano
+211;Jaguaripe;;Jaguaripe;JAGUARIPE;Mesorregião Metropolitana de Salvador
+212;Jandaíra;;Jandaira;JANDAIRA;Nordeste Baiano
+213;Jequié;;Jequie;JEQUIE;Centro-Sul Baiano
+214;Jeremoabo;;Jeremoabo;JEREMOABO;Nordeste Baiano
+215;Jiquiriçá;;Jiquirica;JIQUIRICA;Centro-Sul Baiano
+216;Jitaúna;;Jitauna;JITAUNA;Centro-Sul Baiano
+217;João Dourado;;Joao Dourado;JOAO DOURADO;Centro-Norte Baiano
+218;Juazeiro;;Juazeiro;JUAZEIRO;Vale São-Franciscano da Bahia
+219;Jucuruçu;;Jucurucu;JUCURUCU;Sul Baiano
+220;Jussara;;Jussara;JUSSARA;Centro-Norte Baiano
+221;Jussari;;Jussari;JUSSARI;Sul Baiano
+222;Jussiape;;Jussiape;JUSSIAPE;Centro-Sul Baiano
+223;Lafaiete Coutinho;;Lafaiete Coutinho;LAFAIETE COUTINHO;Centro-Sul Baiano
+224;Lagoa Real;;Lagoa Real;LAGOA REAL;Centro-Sul Baiano
+225;Laje;;Laje;LAJE;Centro-Sul Baiano
+226;Lajedão;;Lajedao;LAJEDAO;Sul Baiano
+227;Lajedinho;;Lajedinho;LAJEDINHO;Centro-Norte Baiano
+228;Lagedo Do Tabocal;;Lagedo Do Tabocal;LAGEDO DO TABOCAL;Centro-Sul Baiano
+229;Lamarão;;Lamarao;LAMARAO;Nordeste Baiano
+230;Lapão;;Lapao;LAPAO;Centro-Norte Baiano
+231;Lauro De Freitas;;Lauro De Freitas;LAURO DE FREITAS;Mesorregião Metropolitana de Salvador
+232;Lençóis;;Lencois;LENCOIS;Centro-Sul Baiano
+233;Licínio De Almeida;;Licinio De Almeida;LICINIO DE ALMEIDA;Centro-Sul Baiano
+234;Livramento De Nossa Senhora;;Livramento De Nossa Senhora;LIVRAMENTO DE NOSSA SENHORA;Centro-Sul Baiano
+235;Luís Eduardo Magalhães;;Luis Eduardo Magalhaes;LUIS EDUARDO MAGALHAES;Extremo Oeste Baiano
+236;Macajuba;;Macajuba;MACAJUBA;Centro-Norte Baiano
+237;Macarani;;Macarani;MACARANI;Centro-Sul Baiano
+238;Macaúbas;;Macaubas;MACAUBAS;Centro-Sul Baiano
+239;Macururé;;Macurure;MACURURE;Vale São-Franciscano da Bahia
+240;Madre De Deus;;Madre De Deus;MADRE DE DEUS;Mesorregião Metropolitana de Salvador
+241;Maetinga;;Maetinga;MAETINGA;Centro-Sul Baiano
+242;Maiquinique;;Maiquinique;MAIQUINIQUE;Centro-Sul Baiano
+243;Mairi;;Mairi;MAIRI;Centro-Norte Baiano
+244;Malhada;;Malhada;MALHADA;Centro-Sul Baiano
+245;Malhada De Pedras;;Malhada De Pedras;MALHADA DE PEDRAS;Centro-Sul Baiano
+246;Manoel Vitorino;;Manoel Vitorino;MANOEL VITORINO;Centro-Sul Baiano
+247;Mansidão;;Mansidao;MANSIDAO;Extremo Oeste Baiano
+248;Maracás;;Maracas;MARACAS;Centro-Sul Baiano
+249;Maragogipe;;Maragogipe;MARAGOGIPE;Mesorregião Metropolitana de Salvador
+250;Maraú;;Marau;MARAU;Sul Baiano
+251;Marcionílio Souza;;Marcionilio Souza;MARCIONILIO SOUZA;Centro-Sul Baiano
+252;Mascote;;Mascote;MASCOTE;Sul Baiano
+253;Mata De São João;;Mata De Sao Joao;MATA DE SAO JOAO;Mesorregião Metropolitana de Salvador
+254;Matina;;Matina;MATINA;Centro-Sul Baiano
+255;Medeiros Neto;;Medeiros Neto;MEDEIROS NETO;Sul Baiano
+256;Miguel Calmon;;Miguel Calmon;MIGUEL CALMON;Centro-Norte Baiano
+257;Milagres;;Milagres;MILAGRES;Centro-Sul Baiano
+258;Mirangaba;;Mirangaba;MIRANGABA;Centro-Norte Baiano
+259;Mirante;;Mirante;MIRANTE;Centro-Sul Baiano
+260;Monte Santo;;Monte Santo;MONTE SANTO;Nordeste Baiano
+261;Morpará;;Morpara;MORPARA;Vale São-Franciscano da Bahia
+262;Morro Do Chapéu;;Morro Do Chapeu;MORRO DO CHAPEU;Centro-Norte Baiano
+263;Mortugaba;;Mortugaba;MORTUGABA;Centro-Sul Baiano
+264;Mucugê;;Mucuge;MUCUGE;Centro-Sul Baiano
+265;Mucuri;;Mucuri;MUCURI;Sul Baiano
+266;Mulungu Do Morro;;Mulungu Do Morro;MULUNGU DO MORRO;Centro-Norte Baiano
+267;Mundo Novo;;Mundo Novo;MUNDO NOVO;Centro-Norte Baiano
+268;Muniz Ferreira;;Muniz Ferreira;MUNIZ FERREIRA;Mesorregião Metropolitana de Salvador
+269;Muquém Do São Francisco;;Muquem Do Sao Francisco;MUQUEM DO SAO FRANCISCO;Vale São-Franciscano da Bahia
+270;Muritiba;;Muritiba;MURITIBA;Mesorregião Metropolitana de Salvador
+271;Mutuípe;;Mutuipe;MUTUIPE;Centro-Sul Baiano
+272;Nazaré;;Nazare;NAZARE;Mesorregião Metropolitana de Salvador
+273;Nilo Peçanha;;Nilo Pecanha;NILO PECANHA;Sul Baiano
+274;Nordestina;;Nordestina;NORDESTINA;Nordeste Baiano
+275;Nova Canaã;;Nova Canaa;NOVA CANAA;Centro-Sul Baiano
+276;Nova Fátima;;Nova Fatima;NOVA FATIMA;Nordeste Baiano
+277;Nova Ibiá;;Nova Ibia;NOVA IBIA;Sul Baiano
+278;Nova Itarana;;Nova Itarana;NOVA ITARANA;Centro-Sul Baiano
+279;Nova Redenção;;Nova Redencao;NOVA REDENCAO;Centro-Sul Baiano
+280;Nova Soure;;Nova Soure;NOVA SOURE;Nordeste Baiano
+281;Nova Viçosa;;Nova Vicosa;NOVA VICOSA;Sul Baiano
+282;Novo Horizonte;;Novo Horizonte;NOVO HORIZONTE;Centro-Sul Baiano
+283;Novo Triunfo;;Novo Triunfo;NOVO TRIUNFO;Nordeste Baiano
+284;Olindina;;Olindina;OLINDINA;Nordeste Baiano
+285;Oliveira Dos Brejinhos;;Oliveira Dos Brejinhos;OLIVEIRA DOS BREJINHOS;Centro-Sul Baiano
+286;Ouriçangas;;Ouricangas;OURICANGAS;Centro-Norte Baiano
+287;Ourolândia;;Ourolandia;OUROLANDIA;Centro-Norte Baiano
+288;Palmas De Monte Alto;;Palmas De Monte Alto;PALMAS DE MONTE ALTO;Centro-Sul Baiano
+289;Palmeiras;;Palmeiras;PALMEIRAS;Centro-Sul Baiano
+290;Paramirim;;Paramirim;PARAMIRIM;Centro-Sul Baiano
+291;Paratinga;;Paratinga;PARATINGA;Vale São-Franciscano da Bahia
+292;Paripiranga;;Paripiranga;PARIPIRANGA;Nordeste Baiano
+293;Pau Brasil;;Pau Brasil;PAU BRASIL;Sul Baiano
+294;Paulo Afonso;;Paulo Afonso;PAULO AFONSO;Vale São-Franciscano da Bahia
+295;Pé De Serra;;Pe De Serra;PE DE SERRA;Nordeste Baiano
+296;Pedrão;;Pedrao;PEDRAO;Centro-Norte Baiano
+297;Pedro Alexandre;;Pedro Alexandre;PEDRO ALEXANDRE;Nordeste Baiano
+298;Piatã;;Piata;PIATA;Centro-Sul Baiano
+299;Pilão Arcado;;Pilao Arcado;PILAO ARCADO;Vale São-Franciscano da Bahia
+300;Pindaí;;Pindai;PINDAI;Centro-Sul Baiano
+301;Pindobaçu;;Pindobacu;PINDOBACU;Centro-Norte Baiano
+302;Pintadas;;Pintadas;PINTADAS;Centro-Norte Baiano
+303;Piraí Do Norte;;Pirai Do Norte;PIRAI DO NORTE;Sul Baiano
+304;Piripá;;Piripa;PIRIPA;Centro-Sul Baiano
+305;Piritiba;;Piritiba;PIRITIBA;Centro-Norte Baiano
+306;Planaltino;;Planaltino;PLANALTINO;Centro-Sul Baiano
+307;Planalto;;Planalto;PLANALTO;Centro-Sul Baiano
+308;Poções;;Pocoes;POCOES;Centro-Sul Baiano
+309;Pojuca;;Pojuca;POJUCA;Mesorregião Metropolitana de Salvador
+310;Ponto Novo;;Ponto Novo;PONTO NOVO;Centro-Norte Baiano
+311;Porto Seguro;;Porto Seguro;PORTO SEGURO;Sul Baiano
+312;Potiraguá;;Potiragua;POTIRAGUA;Centro-Sul Baiano
+313;Prado;;Prado;PRADO;Sul Baiano
+314;Presidente Dutra;;Presidente Dutra;PRESIDENTE DUTRA;Centro-Norte Baiano
+315;Presidente Jânio Quadros;;Presidente Janio Quadros;PRESIDENTE JANIO QUADROS;Centro-Sul Baiano
+316;Presidente Tancredo Neves;;Presidente Tancredo Neves;PRESIDENTE TANCREDO NEVES;Sul Baiano
+317;Queimadas;;Queimadas;QUEIMADAS;Nordeste Baiano
+318;Quijingue;;Quijingue;QUIJINGUE;Nordeste Baiano
+319;Quixabeira;;Quixabeira;QUIXABEIRA;Centro-Norte Baiano
+320;Rafael Jambeiro;;Rafael Jambeiro;RAFAEL JAMBEIRO;Centro-Norte Baiano
+321;Remanso;;Remanso;REMANSO;Vale São-Franciscano da Bahia
+322;Retirolândia;;Retirolandia;RETIROLANDIA;Nordeste Baiano
+323;Riachão Das Neves;;Riachao Das Neves;RIACHAO DAS NEVES;Extremo Oeste Baiano
+324;Riachão Do Jacuípe;;Riachao Do Jacuipe;RIACHAO DO JACUIPE;Nordeste Baiano
+325;Riacho De Santana;;Riacho De Santana;RIACHO DE SANTANA;Centro-Sul Baiano
+326;Ribeira Do Amparo;;Ribeira Do Amparo;RIBEIRA DO AMPARO;Nordeste Baiano
+327;Ribeira Do Pombal;;Ribeira Do Pombal;RIBEIRA DO POMBAL;Nordeste Baiano
+328;Ribeirão Do Largo;;Ribeirao Do Largo;RIBEIRAO DO LARGO;Centro-Sul Baiano
+329;Rio De Contas;;Rio De Contas;RIO DE CONTAS;Centro-Sul Baiano
+330;Rio Do Antônio;;Rio Do Antonio;RIO DO ANTONIO;Centro-Sul Baiano
+331;Rio Do Pires;;Rio Do Pires;RIO DO PIRES;Centro-Sul Baiano
+332;Rio Real;;Rio Real;RIO REAL;Nordeste Baiano
+333;Rodelas;;Rodelas;RODELAS;Vale São-Franciscano da Bahia
+334;Ruy Barbosa;;Ruy Barbosa;RUY BARBOSA;Centro-Norte Baiano
+335;Salinas Da Margarida;;Salinas Da Margarida;SALINAS DA MARGARIDA;Mesorregião Metropolitana de Salvador
+336;Salvador;;Salvador;SALVADOR;Mesorregião Metropolitana de Salvador
+337;Santa Bárbara;;Santa Barbara;SANTA BARBARA;Centro-Norte Baiano
+338;Santa Brígida;;Santa Brigida;SANTA BRIGIDA;Nordeste Baiano
+339;Santa Cruz Cabrália;;Santa Cruz Cabralia;SANTA CRUZ CABRALIA;Sul Baiano
+340;Santa Cruz Da Vitória;;Santa Cruz Da Vitoria;SANTA CRUZ DA VITORIA;Sul Baiano
+341;Santa Inês;;Santa Ines;SANTA INES;Centro-Sul Baiano
+342;Santaluz;;Santaluz;SANTALUZ;Nordeste Baiano
+343;Santa Luzia;;Santa Luzia;SANTA LUZIA;Sul Baiano
+344;Santa Maria Da Vitória;;Santa Maria Da Vitoria;SANTA MARIA DA VITORIA;Extremo Oeste Baiano
+345;Santana;;Santana;SANTANA;Extremo Oeste Baiano
+346;Santanópolis;;Santanopolis;SANTANOPOLIS;Centro-Norte Baiano
+347;Santa Rita De Cássia;;Santa Rita De Cassia;SANTA RITA DE CASSIA;Extremo Oeste Baiano
+348;Santa Teresinha;;Santa Teresinha;SANTA TERESINHA;Centro-Norte Baiano
+349;Santo Amaro;;Santo Amaro;SANTO AMARO;Mesorregião Metropolitana de Salvador
+350;Santo Antônio De Jesus;;Santo Antonio De Jesus;SANTO ANTONIO DE JESUS;Mesorregião Metropolitana de Salvador
+351;Santo Estêvão;;Santo Estevao;SANTO ESTEVAO;Centro-Norte Baiano
+352;São Desidério;;Sao Desiderio;SAO DESIDERIO;Extremo Oeste Baiano
+353;São Domingos;;Sao Domingos;SAO DOMINGOS;Nordeste Baiano
+354;São Félix;;Sao Felix;SAO FELIX;Mesorregião Metropolitana de Salvador
+355;São Félix Do Coribe;;Sao Felix Do Coribe;SAO FELIX DO CORIBE;Extremo Oeste Baiano
+356;São Felipe;;Sao Felipe;SAO FELIPE;Mesorregião Metropolitana de Salvador
+357;São Francisco Do Conde;;Sao Francisco Do Conde;SAO FRANCISCO DO CONDE;Mesorregião Metropolitana de Salvador
+358;São Gabriel;;Sao Gabriel;SAO GABRIEL;Centro-Norte Baiano
+359;São Gonçalo Dos Campos;;Sao Goncalo Dos Campos;SAO GONCALO DOS CAMPOS;Centro-Norte Baiano
+360;São José Da Vitória;;Sao Jose Da Vitoria;SAO JOSE DA VITORIA;Sul Baiano
+361;São José Do Jacuípe;;Sao Jose Do Jacuipe;SAO JOSE DO JACUIPE;Centro-Norte Baiano
+362;São Miguel Das Matas;;Sao Miguel Das Matas;SAO MIGUEL DAS MATAS;Centro-Sul Baiano
+363;São Sebastião Do Passé;;Sao Sebastiao Do Passe;SAO SEBASTIAO DO PASSE;Mesorregião Metropolitana de Salvador
+364;Sapeaçu;;Sapeacu;SAPEACU;Mesorregião Metropolitana de Salvador
+365;Sátiro Dias;;Satiro Dias;SATIRO DIAS;Nordeste Baiano
+366;Saubara;;Saubara;SAUBARA;Mesorregião Metropolitana de Salvador
+367;Saúde;;Saude;SAUDE;Centro-Norte Baiano
+368;Seabra;;Seabra;SEABRA;Centro-Sul Baiano
+369;Sebastião Laranjeiras;;Sebastiao Laranjeiras;SEBASTIAO LARANJEIRAS;Centro-Sul Baiano
+370;Senhor Do Bonfim;;Senhor Do Bonfim;SENHOR DO BONFIM;Centro-Norte Baiano
+371;Serra Do Ramalho;;Serra Do Ramalho;SERRA DO RAMALHO;Vale São-Franciscano da Bahia
+372;Sento Sé;;Sento Se;SENTO SE;Vale São-Franciscano da Bahia
+373;Serra Dourada;;Serra Dourada;SERRA DOURADA;Extremo Oeste Baiano
+374;Serra Preta;;Serra Preta;SERRA PRETA;Centro-Norte Baiano
+375;Serrinha;;Serrinha;SERRINHA;Nordeste Baiano
+376;Serrolândia;;Serrolandia;SERROLANDIA;Centro-Norte Baiano
+377;Simões Filho;;Simoes Filho;SIMOES FILHO;Mesorregião Metropolitana de Salvador
+378;Sítio Do Mato;;Sitio Do Mato;SITIO DO MATO;Vale São-Franciscano da Bahia
+379;Sítio Do Quinto;;Sitio Do Quinto;SITIO DO QUINTO;Nordeste Baiano
+380;Sobradinho;;Sobradinho;SOBRADINHO;Vale São-Franciscano da Bahia
+381;Souto Soares;;Souto Soares;SOUTO SOARES;Centro-Norte Baiano
+382;Tabocas Do Brejo Velho;;Tabocas Do Brejo Velho;TABOCAS DO BREJO VELHO;Extremo Oeste Baiano
+383;Tanhaçu;;Tanhacu;TANHACU;Centro-Sul Baiano
+384;Tanque Novo;;Tanque Novo;TANQUE NOVO;Centro-Sul Baiano
+385;Tanquinho;;Tanquinho;TANQUINHO;Centro-Norte Baiano
+386;Taperoá;;Taperoa;TAPEROA;Sul Baiano
+387;Tapiramutá;;Tapiramuta;TAPIRAMUTA;Centro-Norte Baiano
+388;Teixeira De Freitas;;Teixeira De Freitas;TEIXEIRA DE FREITAS;Sul Baiano
+389;Teodoro Sampaio;;Teodoro Sampaio;TEODORO SAMPAIO;Centro-Norte Baiano
+390;Teofilândia;;Teofilandia;TEOFILANDIA;Nordeste Baiano
+391;Teolândia;;Teolandia;TEOLANDIA;Sul Baiano
+392;Terra Nova;;Terra Nova;TERRA NOVA;Mesorregião Metropolitana de Salvador
+393;Tremedal;;Tremedal;TREMEDAL;Centro-Sul Baiano
+394;Tucano;;Tucano;TUCANO;Nordeste Baiano
+395;Uauá;;Uaua;UAUA;Nordeste Baiano
+396;Ubaíra;;Ubaira;UBAIRA;Centro-Sul Baiano
+397;Ubaitaba;;Ubaitaba;UBAITABA;Sul Baiano
+398;Ubatã;;Ubata;UBATA;Sul Baiano
+399;Uibaí;;Uibai;UIBAI;Centro-Norte Baiano
+400;Umburanas;;Umburanas;UMBURANAS;Centro-Norte Baiano
+401;Una;;Una;UNA;Sul Baiano
+402;Urandi;;Urandi;URANDI;Centro-Sul Baiano
+403;Uruçuca;;Urucuca;URUCUCA;Sul Baiano
+404;Utinga;;Utinga;UTINGA;Centro-Sul Baiano
+405;Valença;;Valenca;VALENCA;Sul Baiano
+406;Valente;;Valente;VALENTE;Nordeste Baiano
+407;Várzea Da Roça;;Varzea Da Roca;VARZEA DA ROCA;Centro-Norte Baiano
+408;Várzea Do Poço;;Varzea Do Poco;VARZEA DO POCO;Centro-Norte Baiano
+409;Várzea Nova;;Varzea Nova;VARZEA NOVA;Centro-Norte Baiano
+410;Varzedo;;Varzedo;VARZEDO;Mesorregião Metropolitana de Salvador
+411;Vera Cruz;;Vera Cruz;VERA CRUZ;Mesorregião Metropolitana de Salvador
+412;Vereda;;Vereda;VEREDA;Sul Baiano
+413;Vitória Da Conquista;;Vitoria Da Conquista;VITORIA DA CONQUISTA;Centro-Sul Baiano
+414;Wagner;;Wagner;WAGNER;Centro-Sul Baiano
+415;Wanderley;;Wanderley;WANDERLEY;Extremo Oeste Baiano
+416;Wenceslau Guimarães;;Wenceslau Guimaraes;WENCESLAU GUIMARAES;Sul Baiano
+417;Xique-Xique;;Xique-Xique;XIQUE-XIQUE;Vale São-Franciscano da Bahia

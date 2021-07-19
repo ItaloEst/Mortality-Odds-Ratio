@@ -1,0 +1,420 @@
+Posição;Municipio;Populacao;"Equivalência em relação à
+população do estado";Variação bruta;Variação percentual
+1;Salvador;2886698;19,41%;14 351;Aumento 0,50%
+2;Feira De Santana;619609;4,17%;4 737;Aumento 0,77%
+3;Vitória Da Conquista;341128;2,29%;?469;Baixa ?0,14%
+4;Camaçari;304302;2,05%;5 170;Aumento 1,73%
+5;Juazeiro;218162;1,47%;1 455;Aumento 0,67%
+6;Itabuna;213685;1,44%;462;Aumento 0,22%
+7;Lauro De Freitas;201635;1,36%;3 195;Aumento 1,61%
+8;Teixeira De Freitas;162438;1,09%;1 951;Aumento 1,22%
+9;Ilhéus;159923;1,08%;?2 404;Baixa ?1,48%
+10;Barreiras;156975;1,06%;1 536;Aumento 0,99%
+11;Jequié;156126;1,05%;160;Aumento 0,10%
+12;Alagoinhas;152327;1,02%;731;Aumento 0,48%
+13;Porto Seguro;150658;1,01%;1 972;Aumento 1,33%
+14;Simões Filho;135783;0,91%;1 406;Aumento 1,05%
+15;Paulo Afonso;118516;0,80%;734;Aumento 0,62%
+16;Eunápolis;114396;0,77%;1 016;Aumento 0,90%
+17;Santo Antônio De Jesus;102380;0,69%;868;Aumento 0,86%
+18;Valença;97233;0,65%;671;Aumento 0,69%
+19;Luís Eduardo Magalhães;90162;0,61%;2 643;Aumento 3,02%
+20;Candeias;87458;0,59%;382;Aumento 0,44%
+21;Guanambi;84928;0,57%;447;Aumento 0,53%
+22;Dias D'Ávila;82432;0,55%;1 343;Aumento 1,66%
+23;Serrinha;81286;0,55%;425;Aumento 0,53%
+24;Jacobina;80635;0,54%;117;Aumento 0,15%
+25;Senhor Do Bonfim;79424;0,53%;409;Aumento 0,52%
+26;Itapetinga;76795;0,52%;648;Aumento 0,85%
+27;Irecê;73524;0,49%;557;Aumento 0,76%
+28;Casa Nova;72545;0,49%;576;Aumento 0,80%
+29;Campo Formoso;71487;0,48%;281;Aumento 0,39%
+30;Bom Jesus Da Lapa;69662;0,47%;514;Aumento 0,74%
+31;Brumado;67335;0,45%;140;Aumento 0,21%
+32;Conceição Do Coité;67013;0,45%;401;Aumento 0,60%
+33;Itaberaba;64646;0,43%;157;Aumento 0,24%
+34;Itamaraju;64455;0,43%;?31;Baixa ?0,05%
+35;Cruz Das Almas;63591;0,43%;352;Aumento 0,56%
+36;Euclides Da Cunha;60858;0,41%;273;Aumento 0,45%
+37;Santo Amaro;60131;0,40%;62;Aumento 0,10%
+38;Ipirá;59435;0,40%;?160;Baixa ?0,27%
+39;Catu;54970;0,37%;266;Aumento 0,49%
+40;Jaguaquara;54673;0,37%;250;Aumento 0,46%
+41;Araci;54648;0,37%;269;Aumento 0,49%
+42;Ribeira Do Pombal;53956;0,36%;149;Aumento 0,28%
+43;Barra;53910;0,36%;332;Aumento 0,62%
+44;Santo Estêvão;53269;0,36%;419;Aumento 0,79%
+45;Caetité;51081;0,34%;106;Aumento 0,21%
+46;Tucano;50798;0,34%;111;Aumento 0,22%
+47;Macaúbas;50161;0,34%;335;Aumento 0,67%
+48;Monte Santo;49278;0,33%;?140;Baixa ?0,28%
+49;Mata De São João;47126;0,32%;543;Aumento 1,17%
+50;Poções;46879;0,32%;8;Aumento 0,02%
+51;Xique-Xique;46523;0,31%;40;Aumento 0,09%
+52;Livramento De Nossa Senhora;46062;0,31%;330;Aumento 0,72%
+53;Ipiaú;45922;0,31%;49;Aumento 0,11%
+54;Maragogipe;44793;0,30%;116;Aumento 0,26%
+55;São Sebastião Do Passé;44430;0,30%;130;Aumento 0,29%
+56;Seabra;44234;0,30%;143;Aumento 0,32%
+57;Nova Viçosa;43783;0,29%;407;Aumento 0,94%
+58;Vera Cruz;43716;0,29%;493;Aumento 1,14%
+59;Mucuri;42251;0,28%;503;Aumento 1,20%
+60;Entre Rios;41901;0,28%;121;Aumento 0,29%
+61;Remanso;41170;0,28%;162;Aumento 0,40%
+62;Sento Sé;40989;0,28%;305;Aumento 0,75%
+63;Rio Real;40976;0,28%;244;Aumento 0,60%
+64;Jeremoabo;40651;0,27%;188;Aumento 0,46%
+65;Inhambupe;40333;0,27%;407;Aumento 1,02%
+66;São Francisco Do Conde;40245;0,27%;443;Aumento 1,11%
+67;Pojuca;39972;0,27%;453;Aumento 1,15%
+68;Santa Maria Da Vitória;39775;0,27%;?70;Baixa ?0,18%
+69;São Gonçalo Dos Campos;37942;0,26%;392;Aumento 1,04%
+70;Esplanada;37578;0,25%;341;Aumento 0,92%
+71;Santaluz;37531;0,25%;183;Aumento 0,49%
+72;Amargosa;37441;0,25%;200;Aumento 0,54%
+73;Itiúba;36116;0,24%;27;Aumento 0,07%
+74;Itapicuru;35883;0,24%;307;Aumento 0,86%
+75;Riacho De Santana;35593;0,24%;172;Aumento 0,49%
+76;Morro Do Chapéu;35440;0,24%;27;Aumento 0,08%
+77;Camamu;35382;0,24%;66;Aumento 0,19%
+78;Pilão Arcado;35175;0,24%;127;Aumento 0,36%
+79;Curaçá;34886;0,23%;186;Aumento 0,54%
+80;Cansanção;34882;0,23%;48;Aumento 0,14%
+81;São Desidério;34266;0,23%;524;Aumento 1,55%
+82;Jaguarari;33746;0,23%;176;Aumento 0,52%
+83;Cachoeira;33567;0,23%;97;Aumento 0,29%
+84;Riachão Do Jacuípe;33468;0,23%;32;Aumento 0,10%
+85;Conceição Do Jacuípe;33398;0,22%;245;Aumento 0,74%
+86;Gandu;32596;0,22%;193;Aumento 0,60%
+87;Cícero Dantas;32576;0,22%;61;Aumento 0,19%
+88;Correntina;32191;0,22%;54;Aumento 0,17%
+89;Paratinga;32141;0,22%;141;Aumento 0,44%
+90;Camacan;32006;0,22%;18;Aumento 0,06%
+91;Serra Do Ramalho;31416;0,21%;?56;Baixa ?0,18%
+92;Barra Do Choça;31209;0,21%;?394;Baixa ?1,25%
+93;Canavieiras;30906;0,21%;?193;Baixa ?0,62%
+94;Capim Grosso;30862;0,21%;200;Aumento 0,65%
+95;Ruy Barbosa;30857;0,21%;43;Aumento 0,14%
+96;Itabela;30747;0,21%;163;Aumento 0,53%
+97;Muritiba;29410;0,20%;11;Aumento 0,04%
+98;Irará;29173;0,20%;139;Aumento 0,48%
+99;Carinhanha;29070;0,20%;52;Aumento 0,18%
+100;Paripiranga;29058;0,20%;69;Aumento 0,24%
+101;Campo Alegre De Lourdes;28820;0,19%;22;Aumento 0,08%
+102;Valente;28800;0,19%;327;Aumento 1,15%
+103;Ituberá;28740;0,19%;138;Aumento 0,48%
+104;Itacaré;28684;0,19%;388;Aumento 1,37%
+105;Nazaré;28594;0,19%;69;Aumento 0,24%
+106;Santa Rita De Cássia;28481;0,19%;143;Aumento 0,50%
+107;Olindina;28304;0,19%;75;Aumento 0,27%
+108;Prado;28194;0,19%;20;Aumento 0,07%
+109;Presidente Tancredo Neves;28004;0,19%;285;Aumento 1,03%
+110;Santa Cruz Cabrália;27922;0,19%;144;Aumento 0,52%
+111;Quijingue;27626;0,19%;46;Aumento 0,17%
+112;Lapão;27274;0,18%;51;Aumento 0,19%
+113;Ubatã;27263;0,18%;228;Aumento 0,84%
+114;Ibotirama;27003;0,18%;76;Aumento 0,28%
+115;Nova Soure;26998;0,18%;51;Aumento 0,19%
+116;Mundo Novo;26970;0,18%;194;Aumento 0,72%
+117;Iguaí;26963;0,18%;47;Aumento 0,17%
+118;Santana;26705;0,18%;91;Aumento 0,34%
+119;Planalto;26426;0,18%;161;Aumento 0,61%
+120;Canarana;26325;0,18%;149;Aumento 0,57%
+121;Castro Alves;26318;0,18%;54;Aumento 0,21%
+122;Conde;26035;0,18%;198;Aumento 0,77%
+123;Miguel Calmon;25894;0,17%;?129;Baixa ?0,50%
+124;Formosa Do Rio Preto;25857;0,17%;266;Aumento 1,04%
+125;Iraquara;25478;0,17%;262;Aumento 1,04%
+126;Queimadas;25433;0,17%;?6;Baixa ?0,02%
+127;João Dourado;25402;0,17%;214;Aumento 0,85%
+128;Cândido Sales;25053;0,17%;?136;Baixa ?0,54%
+129;Amélia Rodrigues;25048;0,17%;?54;Baixa ?0,22%
+130;Piritiba;24964;0,17%;209;Aumento 0,84%
+131;Iaçu;24121;0,16%;?184;Baixa ?0,76%
+132;Uauá;24113;0,16%;?127;Baixa ?0,52%
+133;Laje;24032;0,16%;192;Aumento 0,81%
+134;Belmonte;23437;0,16%;109;Aumento 0,47%
+135;Ibirapitanga;23404;0,16%;29;Aumento 0,12%
+136;Caculé;23291;0,16%;121;Aumento 0,52%
+137;Sobradinho;23233;0,16%;42;Aumento 0,18%
+138;Conceição Da Feira;22762;0,15%;181;Aumento 0,80%
+139;Itambé;22754;0,15%;?295;Baixa ?1,28%
+140;Medeiros Neto;22716;0,15%;28;Aumento 0,12%
+141;Rafael Jambeiro;22633;0,15%;12;Aumento 0,05%
+142;Teofilândia;22555;0,15%;37;Aumento 0,16%
+143;Coração De Maria;22495;0,15%;?110;Baixa ?0,49%
+144;Alcobaça;22490;0,15%;20;Aumento 0,09%
+145;Itaparica;22337;0,15%;109;Aumento 0,49%
+146;Riachão Das Neves;22334;0,15%;?5;Baixa ?0,02%
+147;Mutuípe;22282;0,15%;61;Aumento 0,27%
+148;Caravelas;22093;0,15%;77;Aumento 0,35%
+149;Oliveira Dos Brejinhos;21810;0,15%;?15;Baixa ?0,07%
+150;Palmas De Monte Alto;21796;0,15%;46;Aumento 0,21%
+151;Paramirim;21695;0,15%;88;Aumento 0,41%
+152;Anagé;21607;0,15%;3 750;Aumento 21,00%
+153;Boquira;21497;0,14%;?11;Baixa ?0,05%
+154;Madre De Deus;21432;0,14%;339;Aumento 1,61%
+155;Ibicaraí;21378;0,14%;?311;Baixa ?1,43%
+156;Buritirama;21276;0,14%;102;Aumento 0,48%
+157;Taperoá;21253;0,14%;179;Aumento 0,85%
+158;Crisópolis;21163;0,14%;60;Aumento 0,28%
+159;São Felipe;21080;0,14%;6;Aumento 0,03%
+160;Wenceslau Guimarães;20978;0,14%;?123;Baixa ?0,58%
+161;Santa Bárbara;20883;0,14%;92;Aumento 0,44%
+162;Governador Mangabeira;20762;0,14%;40;Aumento 0,19%
+163;Guaratinga;20700;0,14%;?143;Baixa ?0,69%
+164;Maraú;20617;0,14%;47;Aumento 0,23%
+165;Baixa Grande;20449;0,14%;?19;Baixa ?0,09%
+166;Uruçuca;20413;0,14%;?106;Baixa ?0,52%
+167;Itajuípe;20398;0,14%;?93;Baixa ?0,45%
+168;Maracás;20393;0,14%;?441;Baixa ?2,12%
+169;Tanhaçu;20393;0,14%;?10;Baixa ?0,05%
+170;Barra Da Estiva;20392;0,14%;?206;Baixa ?1,00%
+171;Itororó;20388;0,14%;6;Aumento 0,03%
+172;Abaré;20347;0,14%;261;Aumento 1,30%
+173;Pindobaçu;20098;0,14%;?52;Baixa ?0,26%
+174;Ubaíra;19877;0,13%;?18;Baixa ?0,09%
+175;Itarantim;19843;0,13%;96;Aumento 0,49%
+176;Ibicoara;19786;0,13%;215;Aumento 1,10%
+177;Antas;19479;0,13%;188;Aumento 0,97%
+178;Umburanas;19402;0,13%;180;Aumento 0,94%
+179;Itanhém;19316;0,13%;?89;Baixa ?0,46%
+180;Utinga;19256;0,13%;78;Aumento 0,41%
+181;Ituaçu;19030;0,13%;68;Aumento 0,36%
+182;Jaguaripe;18981;0,13%;193;Aumento 1,03%
+183;Cabaceiras Do Paraguaçu;18911;0,13%;104;Aumento 0,55%
+184;Macarani;18909;0,13%;154;Aumento 0,82%
+185;Ubaitaba;18847;0,13%;?209;Baixa ?1,10%
+186;Cocos;18807;0,13%;30;Aumento 0,16%
+187;São Gabriel;18789;0,13%;?4;Baixa ?0,02%
+188;Mairi;18602;0,13%;?74;Baixa ?0,40%
+189;Una;18544;0,12%;?458;Baixa ?2,41%
+190;Boa Vista Do Tupim;18531;0,12%;?45;Baixa ?0,24%
+191;Cafarnaum;18513;0,12%;76;Aumento 0,41%
+192;Mirangaba;18474;0,12%;136;Aumento 0,74%
+193;Cairu;18427;0,12%;251;Aumento 1,38%
+194;Ibipeba;18319;0,12%;108;Aumento 0,59%
+195;Buerarema;18306;0,12%;?43;Baixa ?0,23%
+196;Fátima;17845;0,12%;?45;Baixa ?0,25%
+197;Aporá;17788;0,12%;57;Aumento 0,32%
+198;Ourolândia;17511;0,12%;60;Aumento 0,34%
+199;Tanque Novo;17443;0,12%;77;Aumento 0,44%
+200;Sapeaçu;17409;0,12%;11;Aumento 0,06%
+201;Cipó;17352;0,12%;52;Aumento 0,30%
+202;Serra Dourada;17321;0,12%;?65;Baixa ?0,37%
+203;Sátiro Dias;17302;0,12%;29;Aumento 0,17%
+204;Central;17280;0,12%;14;Aumento 0,08%
+205;Condeúba;17178;0,12%;?69;Baixa ?0,40%
+206;Conceição Do Almeida;17165;0,12%;?82;Baixa ?0,48%
+207;Adustina;17126;0,12%;86;Aumento 0,50%
+208;Belo Campo;17109;0,12%;?102;Baixa ?0,59%
+209;Ibititá;17080;0,11%;?33;Baixa ?0,19%
+210;Souto Soares;17050;0,11%;71;Aumento 0,42%
+211;Água Fria;17033;0,11%;63;Aumento 0,37%
+212;Piatã;16984;0,11%;?139;Baixa ?0,81%
+213;Tapiramutá;16974;0,11%;?36;Baixa ?0,21%
+214;Bonito;16884;0,11%;120;Aumento 0,72%
+215;Malhada;16861;0,11%;16;Aumento 0,09%
+216;Canudos;16753;0,11%;85;Aumento 0,51%
+217;Pedro Alexandre;16682;0,11%;15;Aumento 0,09%
+218;Urandi;16665;0,11%;7;Aumento 0,04%
+219;Coaraci;16549;0,11%;?444;Baixa ?2,61%
+220;Nova Canaã;16472;0,11%;10;Aumento 0,06%
+221;Encruzilhada;16446;0,11%;?560;Baixa ?3,29%
+222;Ibitiara;16403;0,11%;64;Aumento 0,39%
+223;Filadélfia;16345;0,11%;?32;Baixa ?0,20%
+224;Pindaí;16285;0,11%;25;Aumento 0,15%
+225;Ibicuí;16230;0,11%;32;Aumento 0,20%
+226;Tremedal;16189;0,11%;?205;Baixa ?1,25%
+227;Itaeté;16110;0,11%;54;Aumento 0,34%
+228;Barrocas;16105;0,11%;127;Aumento 0,79%
+229;América Dourada;16090;0,11%;?4;Baixa ?0,02%
+230;Biritinga;15984;0,11%;5;Aumento 0,03%
+231;Salinas Da Margarida;15862;0,11%;195;Aumento 1,24%
+232;Lagoa Real;15770;0,11%;105;Aumento 0,67%
+233;Coronel João Sá;15717;0,11%;?178;Baixa ?1,12%
+234;Igaporã;15650;0,11%;10;Aumento 0,06%
+235;São Félix Do Coribe;15468;0,10%;77;Aumento 0,50%
+236;Rio Do Antônio;15448;0,10%;77;Aumento 0,50%
+237;Novo Triunfo;15443;0,10%;3;Aumento 0,02%
+238;Jussara;15262;0,10%;?22;Baixa ?0,14%
+239;Glória;15234;0,10%;13;Aumento 0,09%
+240;Acajutiba;15187;0,10%;28;Aumento 0,18%
+241;Presidente Dutra;15160;0,10%;18;Aumento 0,12%
+242;Barro Alto;15054;0,10%;123;Aumento 0,82%
+243;Teolândia;15022;0,10%;79;Aumento 0,53%
+244;Ibipitanga;14947;0,10%;45;Aumento 0,30%
+245;Ibirataia;14882;0,10%;?430;Baixa ?2,81%
+246;Jacaraci;14850;0,10%;8;Aumento 0,05%
+247;Ponto Novo;14819;0,10%;?95;Baixa ?0,64%
+248;São Félix;14762;0,10%;22;Aumento 0,15%
+249;Serra Preta;14699;0,10%;?179;Baixa ?1,20%
+250;Ribeira Do Amparo;14612;0,10%;20;Aumento 0,14%
+251;Caetanos;14608;0,10%;?965;Baixa ?6,20%
+252;Jiquiriçá;14557;0,10%;20;Aumento 0,14%
+253;Itaguaçu Da Bahia;14542;0,10%;113;Aumento 0,78%
+254;Itatim;14539;0,10%;52;Aumento 0,36%
+255;Andorinha;14503;0,10%;?92;Baixa ?0,63%
+256;Retirolândia;14495;0,10%;99;Aumento 0,69%
+257;Itagibá;14452;0,10%;?127;Baixa ?0,87%
+258;Boninal;14446;0,10%;78;Aumento 0,54%
+259;Candiba;14368;0,10%;49;Aumento 0,34%
+260;Ipecaetá;14354;0,10%;?133;Baixa ?0,92%
+261;Brejões;14222;0,10%;?73;Baixa ?0,51%
+262;Coribe;14149;0,10%;?45;Baixa ?0,32%
+263;Várzea Da Roça;14121;0,09%;17;Aumento 0,12%
+264;Nilo Peçanha;14079;0,09%;82;Aumento 0,59%
+265;Santa Brígida;14063;0,09%;?150;Baixa ?1,06%
+266;Cristópolis;13947;0,09%;37;Aumento 0,27%
+267;Angical;13938;0,09%;?39;Baixa ?0,28%
+268;Baianópolis;13929;0,09%;52;Aumento 0,37%
+269;Uibaí;13891;0,09%;4;Aumento 0,03%
+270;Barra Do Mendes;13833;0,09%;?32;Baixa ?0,23%
+271;Cotegipe;13769;0,09%;?13;Baixa ?0,09%
+272;Mansidão;13734;0,09%;91;Aumento 0,67%
+273;Mascote;13717;0,09%;?105;Baixa ?0,76%
+274;Pé De Serra;13556;0,09%;?22;Baixa ?0,16%
+275;Serrolândia;13446;0,09%;49;Aumento 0,37%
+276;Caldeirão Grande;13391;0,09%;64;Aumento 0,48%
+277;Banzaê;13240;0,09%;11;Aumento 0,08%
+278;Nordestina;13164;0,09%;34;Aumento 0,26%
+279;Andaraí;13132;0,09%;?11;Baixa ?0,08%
+280;Igrapiúna;13091;0,09%;?135;Baixa ?1,02%
+281;Manoel Vitorino;13087;0,09%;?153;Baixa ?1,16%
+282;Sítio Do Mato;13059;0,09%;47;Aumento 0,36%
+283;Aracatu;13045;0,09%;?90;Baixa ?0,69%
+284;Terra Nova;13025;0,09%;?8;Baixa ?0,06%
+285;Heliópolis;12987;0,09%;?44;Baixa ?0,34%
+286;Saúde;12943;0,09%;30;Aumento 0,23%
+287;Rio De Contas;12932;0,09%;?57;Baixa ?0,44%
+288;Várzea Nova;12625;0,08%;?72;Baixa ?0,57%
+289;Itiruçu;12528;0,08%;?48;Baixa ?0,38%
+290;Novo Horizonte;12522;0,08%;137;Aumento 1,11%
+291;Tabocas Do Brejo Velho;12516;0,08%;?2;Baixa ?0,02%
+292;Santa Luzia;12449;0,08%;?148;Baixa ?1,17%
+293;Licínio De Almeida;12373;0,08%;?15;Baixa ?0,12%
+294;Boa Nova;12329;0,08%;?304;Baixa ?2,41%
+295;Matina;12283;0,08%;82;Aumento 0,67%
+296;Itagi;12242;0,08%;?109;Baixa ?0,88%
+297;Dom Basílio;12240;0,08%;41;Aumento 0,34%
+298;Araçás;12208;0,08%;31;Aumento 0,25%
+299;Wanderley;12180;0,08%;?58;Baixa ?0,47%
+300;Presidente Jânio Quadros;12179;0,08%;?159;Baixa ?1,29%
+301;Saubara;12105;0,08%;62;Aumento 0,51%
+302;Mortugaba;12052;0,08%;10;Aumento 0,08%
+303;Antônio Gonçalves;11878;0,08%;80;Aumento 0,68%
+304;São Miguel Das Matas;11704;0,08%;29;Aumento 0,25%
+305;Antônio Cardoso;11677;0,08%;?6;Baixa ?0,05%
+306;Rio Do Pires;11663;0,08%;8;Aumento 0,07%
+307;Capela Do Alto Alegre;11616;0,08%;?21;Baixa ?0,18%
+308;Sebastião Laranjeiras;11512;0,08%;78;Aumento 0,68%
+309;Lençóis;11499;0,08%;90;Aumento 0,79%
+310;Aramari;11461;0,08%;64;Aumento 0,56%
+311;Muquém Do São Francisco;11417;0,08%;69;Aumento 0,61%
+312;Macajuba;11332;0,08%;?16;Baixa ?0,14%
+313;Aurelino Leal;11299;0,08%;?232;Baixa ?2,01%
+314;Anguera;11297;0,08%;76;Aumento 0,68%
+315;Gentio Do Ouro;11259;0,08%;26;Aumento 0,23%
+316;Chorrochó;11200;0,08%;23;Aumento 0,21%
+317;Iuiú;11016;0,07%;22;Aumento 0,20%
+318;Arataca;10961;0,07%;?58;Baixa ?0,53%
+319;Milagres;10893;0,07%;?57;Baixa ?0,52%
+320;Jitaúna;10808;0,07%;?358;Baixa ?3,21%
+321;Jandaíra;10726;0,07%;17;Aumento 0,16%
+322;Mulungu Do Morro;10673;0,07%;?216;Baixa ?1,98%
+323;Brejolândia;10618;0,07%;61;Aumento 0,58%
+324;Santa Inês;10606;0,07%;?25;Baixa ?0,24%
+325;Floresta Azul;10575;0,07%;?54;Baixa ?0,51%
+326;Érico Cardoso;10560;0,07%;?50;Baixa ?0,47%
+327;Dário Meira;10525;0,07%;?185;Baixa ?1,73%
+328;São José Do Jacuípe;10505;0,07%;43;Aumento 0,41%
+329;Piripá;10475;0,07%;?232;Baixa ?2,17%
+330;Santa Teresinha;10464;0,07%;59;Aumento 0,57%
+331;Pintadas;10394;0,07%;?43;Baixa ?0,41%
+332;Marcionílio Souza;10380;0,07%;?26;Baixa ?0,25%
+333;Itapitanga;10298;0,07%;?15;Baixa ?0,15%
+334;Itapebi;10215;0,07%;?44;Baixa ?0,43%
+335;Maiquinique;10206;0,07%;94;Aumento 0,93%
+336;Brotas De Macaúbas;10130;0,07%;?101;Baixa ?0,99%
+337;Botuporã;10129;0,07%;?82;Baixa ?0,80%
+338;Piraí Do Norte;10036;0,07%;13;Aumento 0,13%
+339;Ipupiara;9911;0,07%;46;Aumento 0,47%
+340;Bom Jesus Da Serra;9823;0,07%;?57;Baixa ?0,58%
+341;Canápolis;9703;0,07%;?8;Baixa ?0,08%
+342;Sítio Do Quinto;9701;0,07%;?285;Baixa ?2,85%
+343;Pau Brasil;9686;0,07%;?145;Baixa ?1,47%
+344;Rodelas;9442;0,06%;111;Aumento 1,19%
+345;Planaltino;9370;0,06%;48;Aumento 0,51%
+346;Cardeal Da Silva;9346;0,06%;51;Aumento 0,55%
+347;Wagner;9344;0,06%;?1;Baixa ?0,01%
+348;Caturama;9316;0,06%;?13;Baixa ?0,14%
+349;Várzea Do Poço;9210;0,06%;40;Aumento 0,44%
+350;Nova Redenção;9123;0,06%;5;Aumento 0,05%
+351;São Domingos;9072;0,06%;14;Aumento 0,15%
+352;Palmeiras;9071;0,06%;52;Aumento 0,58%
+353;Caém;9058;0,06%;?155;Baixa ?1,68%
+354;Ibiassucê;9031;0,06%;?193;Baixa ?2,09%
+355;Jucuruçu;8988;0,06%;?138;Baixa ?1,51%
+356;Santanópolis;8966;0,06%;23;Aumento 0,26%
+357;Quixabeira;8956;0,06%;?16;Baixa ?0,18%
+358;Mucugê;8889;0,06%;?173;Baixa ?1,91%
+359;Aratuípe;8837;0,06%;12;Aumento 0,14%
+360;Caraíbas;8801;0,06%;?150;Baixa ?1,68%
+361;Varzedo;8785;0,06%;?53;Baixa ?0,60%
+362;Abaíra;8710;0,06%;?29;Baixa ?0,33%
+363;Ibirapuã;8690;0,06%;53;Aumento 0,61%
+364;Cordeiros;8642;0,06%;28;Aumento 0,33%
+365;Lajedo Do Tabocal;8577;0,06%;15;Aumento 0,18%
+366;Ouriçangas;8570;0,06%;6;Aumento 0,07%
+367;Itapé;8526;0,06%;?235;Baixa ?2,68%
+368;Morpará;8497;0,06%;?22;Baixa ?0,26%
+369;Mirante;8447;0,06%;?194;Baixa ?2,25%
+370;Malhada De Pedras;8359;0,06%;?34;Baixa ?0,41%
+371;Itaquara;8347;0,06%;28;Aumento 0,34%
+372;Nova Itarana;8279;0,06%;53;Aumento 0,64%
+373;Jaborandi;8277;0,06%;?108;Baixa ?1,29%
+374;Iramaia;8197;0,06%;?340;Baixa ?3,98%
+375;Lamarão;8191;0,06%;?116;Baixa ?1,40%
+376;Candeal;8181;0,06%;?77;Baixa ?0,93%
+377;Elísio Medrado;8126;0,05%;4;Aumento 0,05%
+378;Itamari;8003;0,05%;?32;Baixa ?0,40%
+379;Tanquinho;7928;0,05%;10;Aumento 0,13%
+380;Nova Fátima;7821;0,05%;9;Aumento 0,12%
+381;Macururé;7787;0,05%;?37;Baixa ?0,47%
+382;Muniz Ferreira;7443;0,05%;21;Aumento 0,28%
+383;Pedrão;7394;0,05%;47;Aumento 0,64%
+384;Teodoro Sampaio;7359;0,05%;?66;Baixa ?0,89%
+385;Apuarema;7302;0,05%;?28;Baixa ?0,38%
+386;Irajuba;7279;0,05%;19;Aumento 0,26%
+387;Gongogi;6985;0,05%;?143;Baixa ?2,01%
+388;Potiraguá;6916;0,05%;?308;Baixa ?4,26%
+389;Itagimirim;6825;0,05%;?44;Baixa ?0,64%
+390;Guajeru;6646;0,04%;?291;Baixa ?4,19%
+391;Itaju Do Colônia;6596;0,04%;?86;Baixa ?1,29%
+392;Nova Ibiá;6554;0,04%;?37;Baixa ?0,56%
+393;Caatiba;6488;0%;?270;Baixa ?4,00%
+394;Itanagra;6436;0,04%;?5;Baixa ?0,08%
+395;Santa Cruz Da Vitória;6278;0,04%;?37;Baixa ?0,59%
+396;Ichu;6220;0,04%;14;Aumento 0,23%
+397;Vereda;6153;0,04%;?52;Baixa ?0,84%
+398;Jussiape;5976;0,04%;?210;Baixa ?3,39%
+399;Jussari;5768;0,04%;?65;Baixa ?1,11%
+400;Feira Da Mata;5661;0,04%;?4;Baixa ?0,07%
+401;Firmino Alves;5629;0,04%;12;Aumento 0,21%
+402;Barra Do Rocha;5612;0,04%;?102;Baixa ?1,79%
+403;São José Da Vitória;5608;0,04%;?49;Baixa ?0,87%
+404;Barro Preto;5448;0,04%;?143;Baixa ?2,56%
+405;Almadina;5366;0,04%;?98;Baixa ?1,79%
+406;Cravolândia;5351;0,04%;2;Aumento 0,04%
+407;Ribeirão Do Largo;5343;0,04%;?469;Baixa ?8,07%
+408;Gavião;4440;0,03%;?23;Baixa ?0,52%
+409;Aiquara;4416;0,03%;?30;Baixa ?0,67%
+410;Dom Macedo Costa;4065;0,03%;7;Aumento 0,17%
+411;Ibiquera;4046;0,03%;2;Aumento 0,05%
+412;Contendas Do Sincorá;4045;0,03%;?21;Baixa ?0,52%
+413;Lajedão;3975;0,03%;20;Aumento 0,51%
+414;Lajedinho;3758;0,03%;?25;Baixa ?0,66%
+415;Lafaiete Coutinho;3693;0,02%;?31;Baixa ?0,83%
+416;Catolândia;3599;0,02%;22;Aumento 0,62%
+417;Maetinga;2764;0,02%;?397;Baixa ?12,56%
+;;;;;
